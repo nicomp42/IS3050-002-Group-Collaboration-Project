@@ -5,8 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace IS3050_002_Group_Collaboration_Project
+
+
 {
     internal class Turtle
+     
     {
+        public static void HappyHalloween()
+        {
+            Console.WriteLine("Lucas likes Reeses");
+        }
+        
     }
+    
 }
