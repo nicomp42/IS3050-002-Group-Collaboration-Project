@@ -8,5 +8,9 @@ namespace IS3050_002_Group_Collaboration_Project
 {
     internal class Fish
     {
+        public static void HappyHalloween(string message)
+        {
+            Console.WriteLine("Jacob, I like Reese's");
+        }
     }
 }
