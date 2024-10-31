@@ -12,6 +12,14 @@ namespace IS3050_002_Group_Collaboration_Project
         {
             // declare and instantiate your classes
             // invoke your methods
+            Bird myBird = new Bird();  // Instantiate
+            Bird.HappyHalloween();
+            Cat.HappyHalloween();
+            Turtle.HappyHalloween();
+            Fish.HappyHalloween("Not Used");
+            Squirrel.HappyHalloween();  
+
+
         }
     }
 }

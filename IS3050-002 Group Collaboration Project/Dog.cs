@@ -8,7 +8,7 @@ namespace IS3050_002_Group_Collaboration_Project
 {
     internal class Dog
     {
-        static void HappyHalloween()                    //Write a method called HappyHalloween NO PARAMETERS
+       public static void HappyHalloween()                    //Write a method called HappyHalloween NO PARAMETERS
         {
             Console.WriteLine("Ian M. & Twix");         //Prints Name and Your Favorite Candy  RETURN NOTHING
         }
