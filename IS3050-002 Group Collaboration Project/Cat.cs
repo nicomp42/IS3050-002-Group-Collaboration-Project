@@ -8,5 +8,9 @@ namespace IS3050_002_Group_Collaboration_Project
 {
     internal class Cat
     {
+        public static void HappyHalloween() {
+        
+            Console.WriteLine("Chrystie Cadet Loves Gushers");
     }
+}
 }
