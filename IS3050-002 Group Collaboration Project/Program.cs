@@ -18,7 +18,7 @@ namespace IS3050_002_Group_Collaboration_Project
             Turtle.HappyHalloween();
             Fish.HappyHalloween("Not Used");
             Squirrel.HappyHalloween();  
-
+            Whale.HappyHalloween();
 
         }
     }
