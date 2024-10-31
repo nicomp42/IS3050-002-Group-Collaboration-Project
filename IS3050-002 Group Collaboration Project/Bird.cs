@@ -8,6 +8,10 @@ namespace IS3050_002_Group_Collaboration_Project
 {
     internal class Bird
     {
+        public static void HappyHalloween()
+        {
+            Console.WriteLine("Matthew likes Twix");
+        }
 
     }
 }
