@@ -8,5 +8,9 @@ namespace IS3050_002_Group_Collaboration_Project
 {
     internal class Squirrel
     {
+        public static void HappyHalloween ()
+        {
+            Console.WriteLine("Eirlys Vo - Favorite candy: Hershey");
+        }
     }
 }
